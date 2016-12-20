@@ -1,0 +1,3 @@
+[submodule "ext/quic_simple_client/libquic"]
+	path = ext/quic_simple_client/libquic
+	url = https://github.com/devsisters/libquic
